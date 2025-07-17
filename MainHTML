@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afnas P - Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Afnas P</h1>
+            <p>Vibrant tech enthusiast with a deep passion for technology and innovation.</p>
+        </div>
+    </header>
+
+    <section class="about">
+        <h2>About me</h2>
+        <p>Vibrant tech enthusiast known for their deep passion for technology and innovation. With a creative mind that thrives on exploring new ideas, has a knack for turning complex tech concepts into accessible, engaging experiences. Their dedication is evident in their relentless pursuit of knowledge, always eager to learn the latest in tech trends, software, or hardware. Whether it's coding, experimenting with new gadgets, or contributing to tech communities.</p>
+    </section>
+
+    <section class="social">
+        <h2>Connect with me</h2>
+        <div class="social-buttons">
+            <a href="https://www.instagram.com/yourusername" class="social-btn instagram" target="_blank">Instagram</a>
+            <a href="https://www.linkedin.com/in/yourusername" class="social-btn linkedin" target="_blank">LinkedIn</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Afnas P</p>
+    </footer>
+</body>
+</html>
